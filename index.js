@@ -8,7 +8,7 @@ if (quantidadeXP <= 1000) {
     nivel = "Bronze";
 } else if (quantidadeXP >= 2001 && quantidadeXP <= 5000) {
     nivel = "Prata"; 
-} else if (quantidadeXP >= 6001 && quantidadeXP <= 7000) {
+} else if (quantidadeXP >= 5001 && quantidadeXP <= 7000) {
     nivel = "Ouro";
 } else if (quantidadeXP >= 7001 && quantidadeXP <= 8000) {
     nivel = "Platina";
