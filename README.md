@@ -1,4 +1,4 @@
-1️⃣ **Desafio Classificador de nível de Herói** 🦸🏻‍♀️
+##1️⃣ **Desafio Classificador de nível de Herói** 🦸🏻‍♀️
 
 Primeiro desafio proposto pela **DIO**, com o objetivo de testar os conhecimentos adquiridos durante o curso e utilizar conceitos de lógica de programação em JavaScript, como:
 
@@ -7,7 +7,7 @@ Primeiro desafio proposto pela **DIO**, com o objetivo de testar os conhecimento
 - Operadores  
 - Laços   
 
-A missão é classificar um herói de acordo com sua quantidade de XP e exibir uma mensagem no console contendo o nome e o nível de experiência.
+A missão é classificar um herói de acordo com sua quantidade de XP, exibindo uma mensagem no console com o nome e o nível de experiência.
 
 ---
 
