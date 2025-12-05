@@ -1,4 +1,4 @@
-##1️⃣ **Desafio Classificador de nível de Herói** 🦸🏻‍♀️
+## 1️⃣ **Desafio Classificador de nível de Herói** 🦸🏻‍♀️
 
 Primeiro desafio proposto pela **DIO**, com o objetivo de testar os conhecimentos adquiridos durante o curso e utilizar conceitos de lógica de programação em JavaScript, como:
 
